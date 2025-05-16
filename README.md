@@ -37,6 +37,10 @@ logos through which user can communicate and join our “Subjectsaholic” Commu
 <u><b> Events: </b></u>  
 One of the advantages of this pages is that at the end of the video completion is the “QUIZ SECTION”. In this page, our website conducts new events like presentation competitions, subject’s quizzes etc. So, all the trending events for the users will be displayed here. 
 <br><br>
+<img width="897" alt="quiz_ss" src="https://github.com/user-attachments/assets/6a8d1f63-8177-400b-b111-3e20fec753f9" />
+
+
+<br><br>
 <u><b> Products:</b></u> 
 This section is used to purchase various stationary items. There are various stationary items available on the website. The admin can update, 
 delete, and add new branded items as per requirements.   
@@ -45,7 +49,7 @@ delete, and add new branded items as per requirements.
 User can “Add-to-Cart” their items and purchase them. This will be displayed on the right side of the product section. User can increase the 
 quantity as required and as quantity increases, its prices multiples gradually.  
 <br><br>
-<u><b>  Add-Cart :</b></u>
+<u><b>  Contact Us :</b></u>
 This section comprises of a form where user can give feedbacks and customers’ complaints and suggestions if any. User will send an email to 
 the admin. There is a text box to print messages, feedbacks for the website. In addition, it also used for user’s complaints (if any).  
 <br><br>
