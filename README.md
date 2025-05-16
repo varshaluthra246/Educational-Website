@@ -8,8 +8,9 @@ Educational website will help the people to gain knowledge regarding their subje
 <br>
 # Module Structure
 <br>
-<u><b>Home Page:<b></u>  This is the First or Home page of our website. It is the default page of the website. It includes all the information about the project. When the user present on any page he can directly go homepage by pressing the button. This Home Page comprises of the “Popular Courses Section”, “Frequently Asked Questions (FAQ’s)”, “Footer section” as well as “SignUp page”. 
-<br>
+<u><b>Home Page:<b></u> 
+This is the First or Home page of our website. It is the default page of the website. It includes all the information about the project. When the user present on any page he can directly go homepage by pressing the button. This Home Page comprises of the “Popular Courses Section”, “Frequently Asked Questions (FAQ’s)”, “Footer section” as well as “SignUp page”. 
+<br><br>
 <u><b>Sign Up Page:<b></u>  This page takes user’s details like first name, last name, phone number, address, Email id etc. through which user can sign up. After sign-up the 
 details will be saved on the admin panel. The admin can access, create, delete, update these fields anytime from anywhere. Then login-in process starts. If the user has already had an account, he has to fill only email and password next time otherwise, it will display an error message. After successfully login, transaction process starts and thereafter user access the courses section.   
 <br>
